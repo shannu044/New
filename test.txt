@@ -1,2 +1,7 @@
 Hi this is test file for Git
 
+This file is edited in branch
+
+Need to check rebase functionality
+
+
